@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am bursuc08 on github.
+  * I am bursuc08 (https://keybase.io/bursuc08) on keybase.
+  * I have a public key ASD5_DjaKUELn0ZvnQ4C_w8ZrM70UCYSxxGSV3CrRbqywgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f9fc38da29410b9f466f9d0e02ff0f19accef4502612c711925770ab45bab2c20a",
+      "host": "keybase.io",
+      "kid": "0120f9fc38da29410b9f466f9d0e02ff0f19accef4502612c711925770ab45bab2c20a",
+      "uid": "cb6a6d3a6a73972c8ed10da2acd56d19",
+      "username": "bursuc08"
+    },
+    "merkle_root": {
+      "ctime": 1568143960,
+      "hash": "6862632d46c87390c9ac8567b9718c6e90218f2003290d75779b62a63bed1127d4824c9be7910486e77418d8d6cb2868daa0bc5a2f108514a58c14910bb6814d",
+      "hash_meta": "81aedd83d582df7e6c28b5fb6cab1445629329e72cc01cb0a853641d1af0a9b0",
+      "seqno": 6504230
+    },
+    "service": {
+      "entropy": "FzJhjLjz+NvZk7r9FOoxIMMO",
+      "name": "github",
+      "username": "bursuc08"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568143970,
+  "expire_in": 504576000,
+  "prev": "a1a6088ec38301f7788976a8c3220716bdc934abd5a995c59d720bc5e875e821",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASD5_DjaKUELn0ZvnQ4C_w8ZrM70UCYSxxGSV3CrRbqywgo](https://keybase.io/bursuc08), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+fw42ilBC59Gb50OAv8PGazO9FAmEscRkldwq0W6ssIKp3BheWxvYWTESpcCBcQgoaYIjsODAfd4iXaowyIHFr3JNKvVqZXFnXILxeh16CHEICLDiJ9RrHMaHqTAg4SoTwEvpHDMQWM2cK5AdP+6Mv90AgHCo3NpZ8RA/BP7k31zOF2in+8lwaxiHHp5Fasj6fLRTqmXMn/KMN+JlHjPjxemtjF1Ldjec2AO7ulDTsJJLVD0vtI5BeneD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEMj/NPlsLKnXr/JmBEqvUeFEHimQeVouci8xgHQ8bH1o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/bursuc08
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id bursuc08
+```
